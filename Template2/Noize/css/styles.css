@@ -1,0 +1,82 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Montserrat", sans-serif;
+  overflow-x: hidden;
+}
+
+.navbar{
+  background-color: #000000;
+
+}
+.nav-item a{
+  color: #fff;
+}
+
+.logo{
+  height: 80px;
+  width: 140px;
+}
+.social_icons{
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+#background_icon{
+  height: 50%;
+  width: 100%;
+}
+.google-map{
+  width: 100%;
+}
+#img_1{
+  border: none;
+  padding: none;
+}
+.footer{
+  background-color: black;
+}
+#Noize_logo{
+  height: 200px;
+  width: 250px;
+  align-self: center;
+}
+#Noize_logo_div{
+  text-align: center;
+}
+.social_icon_div{
+  text-align: center;
+  margin-top: 20px;
+  padding-bottom: 100px;
+}
+.copyright-message{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: #fff;
+}
+.contact-section{
+  background-color: #000000;
+  padding: 20px;
+  padding-bottom: 100px;
+}
+input[type=text]{
+  border-radius: 0px;
+}
+input[type=email]{
+  border-radius: 0px;
+}
+#message{
+  border-radius: 0px;
+}
+.danger{
+  border-color: red;
+}
+.credits-copyright-message{
+  font-size: 30px;
+  color: red;
+  text-align: center;
+}
+.small_image_icons{
+  height: 50px;
+}
